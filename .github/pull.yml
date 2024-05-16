@@ -1,5 +1,3 @@
-version: "1"
-rules:
-  - base: master
-    upstream: wei:master
-    mergeMethod: hardreset
+ https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome
+ pull.yml
+ 
